@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">YouLocalAndroid</string>
+    <string name="login">LOGIN</string>
+    <string name="reset">RESET</string>
+    <string name="back_to">BACK TO LOGIN</string>
+    <string name="usrName">Username</string>
+    <string name="pass">Password</string>
+    <string name="frgtPass">FORGOTTEN PASSWORD?</string>
+    <string name="wrongEmail">Please enter correct email address as Username!</string>
+    <string name="emptyEditText">Please enter Username and Password to login!</string>
+    <string name="pleaseWait">Logging in, please wait&#8230;</string>
+    <string name="noConnection">Please check your connection and try again!</string>
+    <string name="wrongUsrPass">Wrong Username or Password! Please try again!</string>
+</resources>
